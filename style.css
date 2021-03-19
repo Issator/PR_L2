@@ -1,4 +1,16 @@
-body
-{
-	background-color: blue;
+body{
+	background-color: #78ff95;
+}
+p{
+  	font-size: 20px;
+}
+
+.lewy {
+	float: left;
+	width: 50%;
+}
+
+#navbar {
+	float: right;
+	width: 50%;
 }
